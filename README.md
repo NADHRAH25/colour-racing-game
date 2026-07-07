@@ -1,2 +1,3 @@
-# colour-racing-game
-Year 1 English Speaking Game
+# Colour Racing Challenge
+
+Starter project. Replace these files with the full versions as development continues.
